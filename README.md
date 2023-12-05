@@ -15,8 +15,7 @@ The communication between the bubble.io interface and your Rails API is likely b
 
 4. **Project Setup->**
 
-       You can visit this bubble's url 
-       https://shopnow-57493.bubbleapps.io/version-test 
+       You can visit this bubble's [WEBSITE](https://shopnow-57493.bubbleapps.io/version-test)
        and checkout its working
       
  

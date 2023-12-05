@@ -13,10 +13,8 @@ The communication between the bubble.io interface and your Rails API is likely b
 
 
 
-4. **Project Setup->**
-
-       You can visit this bubble's [WEBSITE](https://shopnow-57493.bubbleapps.io/version-test)
-       and checkout its working
+4. **Project Working->**   You can visit this bubble.io  [WEBSITE](https://shopnow-57493.bubbleapps.io/version-test) to see it in action.
+ 
       
  
 
